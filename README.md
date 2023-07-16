@@ -1,2 +1,2 @@
-# python_learning
+# Python learning
 Here you can find my python scripts and lessons!
