@@ -1,8 +1,8 @@
-import cmath
+import cmath  # import module
 
-a = 1
-b = 5
-c = 6
+a = 1  # first parameter
+b = 5  # second parameter
+c = 6  # third parameter
 
 d = (b**2) - (4*a*c)
 
